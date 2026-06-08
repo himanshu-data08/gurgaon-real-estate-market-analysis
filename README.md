@@ -19,6 +19,7 @@ The dataset contains information about property prices, area, locality, property
 
 ## Business Questions Solved
 
+
 1. Which is the costliest flat in the dataset?
 
 2.Which locality has the highest average price?
